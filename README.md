@@ -11,6 +11,7 @@ We developed an innovative machine learning approach to predict TFPMs. By using 
 ---
 ![image](https://github.com/user-attachments/assets/824d472e-726d-46c6-9831-26fca9bdc0f9)
 ---
-![QQ_1721634388164](https://github.com/user-attachments/assets/c2a4966c-f72f-40fb-98c1-ccafd85b2e1b)=
----
+![QQ_1721634388164](https://github.com/user-attachments/assets/c2a4966c-f72f-40fb-98c1-ccafd85b2e1b)
+----
 ![QQ_1721634409909](https://github.com/user-attachments/assets/d0538f5a-e907-49a2-820a-1a1f13f959b9)
+---
